@@ -1,0 +1,1 @@
+var myName; //En JavaScript terminamos las sentencias con punto y coma. Los nombres de las variables pueden estar formados por números, letras y $ o _, pero no pueden contener espacios ni empezar con un número.
